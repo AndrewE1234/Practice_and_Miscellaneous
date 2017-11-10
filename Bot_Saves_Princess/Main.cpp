@@ -70,6 +70,5 @@ int main(void)
 	}
 
 	displayPathtoPrincess(m, grid);
-	system("Pause");
 	return 0;
 }
