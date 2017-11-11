@@ -62,7 +62,7 @@ int main(void)
 	cout << "Enter in size of grid (odd #'s only): ";
 	cin >> m;
 
-	cout << "Please created grid: " << endl;
+	cout << "Please create grid: " << endl;
 	for (int i = 0; i<m; i++) 
 	{
 		string s; cin >> s;
