@@ -7,7 +7,7 @@ from hackerrank.com.
 
 https://www.hackerrank.com/challenges/saveprincess/problem
 
-A revision of my original solution to the Bot Save
+A revision of my original solution to the Bot Saves
 Princess problem that can determine a move set
 no matter where Mario or the Princess are on the
 grid.
